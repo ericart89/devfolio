@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a769ed7-3931-4545-bc51-53ad279d493c" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,19 +21,22 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ericart89"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ericart89&quot;
   }
-}]]></component>
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: []
+}</component>
   <component name="GitLabMergeRequestsSettings">{}</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ericart89/devfolio.git",
-    "accountId": "8eff3902-aaca-478e-89c6-0642d29f8d28"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ericart89/devfolio.git&quot;,
+    &quot;accountId&quot;: &quot;8eff3902-aaca-478e-89c6-0642d29f8d28&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -47,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/ericart/WebstormProjects/devfolio/src/dist/img/carousel",
+    "last_opened_file_path": "/home/ericart/WebstormProjects/devfolio/src/dist/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,9 +62,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dist/img" />
       <recent name="$PROJECT_DIR$/src/dist/img/carousel" />
       <recent name="$PROJECT_DIR$/src/dist/docs" />
-      <recent name="$PROJECT_DIR$/src/dist/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dist/img/carousel" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -82,7 +88,10 @@
       <workItem from="1707759265841" duration="640000" />
       <workItem from="1707761920665" duration="7352000" />
       <workItem from="1711376191434" duration="18416000" />
-      <workItem from="1711452760455" duration="3317000" />
+      <workItem from="1711452760455" duration="10734000" />
+      <workItem from="1711800253515" duration="9070000" />
+      <workItem from="1711812869222" duration="3695000" />
+      <workItem from="1711893233824" duration="2476000" />
     </task>
     <servers />
   </component>
